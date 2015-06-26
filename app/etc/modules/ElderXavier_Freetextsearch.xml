@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <ElderXavier_Freetextsearch>
+            <active>true</active>
+            <codePool>community</codePool>
+        </ElderXavier_Freetextsearch>
+    </modules>
+</config> 
